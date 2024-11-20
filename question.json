@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "What is the cardinal number of 'seven'?",
+        "options": [
+            "7",
+            "Seventh",
+            "Seventeenth",
+            "1st"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Which of these is an ordinal number?",
+        "options": [
+            "Ten",
+            "Third",
+            "12",
+            "Forty"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Which number is written as 'fifth' in ordinal form?",
+        "options": [
+            "5",
+            "50",
+            "5th",
+            "Fifty"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "What is the cardinal number of 'eleventh'?",
+        "options": [
+            "11",
+            "1",
+            "Eleventh",
+            "10"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Which number is ordinal?",
+        "options": [
+            "2",
+            "6th",
+            "Ten",
+            "14"
+        ],
+        "correct": 1
+    }
+]
